@@ -32,6 +32,110 @@ console.log(introduction);
 - **Responsive Design:** Flexbox, GriBootstrap
 - **Testing:** Jasmin & Karma
 
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Skills Section</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 20px;
+    }
 
+    h2 {
+      color: #333;
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    li {
+      margin-bottom: 10px;
+    }
+
+    .category {
+      font-weight: bold;
+      color: #4285f4;
+    }
+
+    .skill-list {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .skill {
+      background-color: #4285f4;
+      color: #fff;
+      padding: 8px 12px;
+      border-radius: 5px;
+      margin-right: 10px;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h2>Skills</h2>
+
+  <ul>
+    <li class="category">Languages:</li>
+    <ul class="skill-list">
+      <li class="skill">HTML</li>
+      <li class="skill">CSS</li>
+      <li class="skill">JavaScript</li>
+    </ul>
+
+    <li class="category">Frameworks/Libraries:</li>
+    <ul class="skill-list">
+      <li class="skill">Angular</li>
+      <li class="skill">jQuery</li>
+      <li class="skill">Typescript</li>
+    </ul>
+
+    <li class="category">Design Tools:</li>
+    <ul class="skill-list">
+      <li class="skill">Figma</li>
+      <li class="skill">Sketch</li>
+    </ul>
+
+    <li class="category">Version Control:</li>
+    <ul class="skill-list">
+      <li class="skill">Git</li>
+      <li class="skill">GitHub</li>
+    </ul>
+
+    <li class="category">Build Tools:</li>
+    <ul class="skill-list">
+      <li class="skill">Webpack</li>
+    </ul>
+
+    <li class="category">CSS Preprocessors:</li>
+    <ul class="skill-list">
+      <li class="skill">Sass</li>
+      <li class="skill">Scss</li>
+    </ul>
+
+    <li class="category">Responsive Design:</li>
+    <ul class="skill-list">
+      <li class="skill">Flexbox</li>
+      <li class="skill">Grid</li>
+      <li class="skill">Bootstrap</li>
+    </ul>
+
+    <li class="category">Testing:</li>
+    <ul class="skill-list">
+      <li class="skill">Jasmine</li>
+      <li class="skill">Karma</li>
+    </ul>
+  </ul>
+</body>
+</html>
+```
 
 
