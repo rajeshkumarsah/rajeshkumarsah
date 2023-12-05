@@ -2,7 +2,7 @@
 
 ## This piece of code will help you understand more about me.
 
-```
+```javascript
 const name = "Rajesh Sah";
 const experienceYears = 7.4;
 const expertise = "I specialize in transforming diverse design concepts into pixel-perfect, adaptable, and scalable digital solutions for businesses. As a developer with over seven years of hands-on experience in UI development, I bring a wealth of expertise to the table. My core strengths lie in Angular and related UI frameworks, where I've honed my skills in crafting seamless user interfaces. I take pride in tackling complex problems, which is a fundamental aspect of my approach to web development. My proficiency extends to mastering web programming skills and a deep understanding of browser behavior, allowing me to create web applications that are both user-friendly and efficient";
