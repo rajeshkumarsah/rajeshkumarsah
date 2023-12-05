@@ -2,9 +2,9 @@
 
 
 
-<h1 align="center">🚀 Frontend Developer Skills</h1>
+<h1 >🚀 Frontend Developer Skills</h1>
 
-<p align="center">
+<p >
   <i>Transforming design concepts into pixel-perfect!</i>
 </p>
 
