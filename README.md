@@ -27,7 +27,7 @@ console.log(introduction);
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript
+- **Languages:**  #HTML, CSS, JavaScript
 - **Frameworks/Libraries:** React.js, Vue.js
 - **Design Tools:** Figma, Sketch
 - **Version Control:** Git, GitHub
