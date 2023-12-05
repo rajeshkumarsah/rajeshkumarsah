@@ -1,14 +1,16 @@
-# Hi there! 👋 I'm Rajesh Sah
+# Hi there! 👋 Welcome to the profile of a JavaScript and CSS Master
 
-## About Me
+## This piece of code will help you understand more about me.
 
 ```javascript
 // Code snippet from Awesome Project
-// Welcome message and information for Rajesh Sah, a frontend developer with 7 years of experience
+// Welcome message and information for Rajesh Sah, a frontend developer with 7.4 years of experience
 
 const name = "Rajesh Sah";
-const experienceYears = 7;
-const expertise = "Transforming diverse design concepts into pixel-perfect, adaptable, and scalable digital solutions for businesses.";
+const experienceYears = 7.4;
+const expertise = "I specialize in transforming diverse design concepts into pixel-perfect, adaptable, and scalable digital solutions for businesses. As a developer with over seven years of hands-on experience in UI development, I bring a wealth of expertise to the table.
+
+My core strengths lie in Angular and related UI frameworks, where I've honed my skills in crafting seamless user interfaces. I take pride in tackling complex problems, which is a fundamental aspect of my approach to web development. My proficiency extends to mastering web programming skills and a deep understanding of browser behavior, allowing me to create web applications that are both user-friendly and efficient.";
 
 // Function to generate a personalized introduction
 function generateIntroduction(name, yearsOfExperience, specialization) {
@@ -27,33 +29,15 @@ console.log(introduction);
 
 ## Skills
 
-- **Languages:**  #HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React.js, Vue.js
+- **Languages:**  HTML, CSS, JavaScript, 
+- **Frameworks/Libraries:** Angular, Jquery, Typescript
 - **Design Tools:** Figma, Sketch
 - **Version Control:** Git, GitHub
 - **Build Tools:** Webpack
-- **CSS Preprocessors:** Sass, Less
-- **Responsive Design:** Flexbox, Grid
-- **Testing:** Jest, React Testing Library
+- **CSS Preprocessors:** Sass, Scss
+- **Responsive Design:** Flexbox, GriBootstrap
+- **Testing:** Jasmin & Karma
 
-## Experience
-
-### Company XYZ - Frontend Developer (2015-2022)
-
-- Spearheaded the development of [Project A](#), resulting in a 20% improvement in user engagement.
-- Collaborated with cross-functional teams to ensure seamless integration of UI components.
-- Conducted code reviews and mentored junior developers.
-
-### Company ABC - UI/UX Engineer (2013-2015)
-
-- Led the redesign of the company website, resulting in a 30% increase in user satisfaction.
-- Implemented responsive design principles for optimal user experience across devices.
-
-## Projects
-
-### [Project 1: Awesome Project](#)
-
-Short description of the project, its purpose, and your role in its development.
 
 
 
