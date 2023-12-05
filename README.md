@@ -64,12 +64,9 @@ function generateIntroduction(name, yearsOfExperience, specialization) {
   };
 }
 
-
 const introductionClosure = generateIntroduction(name, experienceYears, expertise);
 
-
 const introduction = introductionClosure();
-
 
 console.log(introduction);
 ```
