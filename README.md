@@ -23,119 +23,36 @@ console.log(introduction);
 
 ## Skills
 
-- **Languages:**  HTML, CSS, JavaScript, 
-- **Frameworks/Libraries:** Angular, Jquery, Typescript
-- **Design Tools:** Figma, Sketch
-- **Version Control:** Git, GitHub
-- **Build Tools:** Webpack
-- **CSS Preprocessors:** Sass, Scss
-- **Responsive Design:** Flexbox, GriBootstrap
-- **Testing:** Jasmin & Karma
+### Languages
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Skills Section</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      background-color: #f4f4f4;
-      margin: 0;
-      padding: 20px;
-    }
+### Frameworks/Libraries
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-    h2 {
-      color: #333;
-    }
+### Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=sketch&logoColor=white)
 
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-    li {
-      margin-bottom: 10px;
-    }
+### Build Tools
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 
-    .category {
-      font-weight: bold;
-      color: #4285f4;
-    }
+### CSS Preprocessors
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Scss](https://img.shields.io/badge/Scss-CC6699?style=flat&logo=sass&logoColor=white)
 
-    .skill-list {
-      display: flex;
-      flex-wrap: wrap;
-    }
+### Responsive Design
+![Flexbox](https://img.shields.io/badge/Flexbox-44A2FD?style=flat)
+![Grid](https://img.shields.io/badge/Grid-29ABE2?style=flat)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-    .skill {
-      background-color: #4285f4;
-      color: #fff;
-      padding: 8px 12px;
-      border-radius: 5px;
-      margin-right: 10px;
-      margin-bottom: 10px;
-    }
-  </style>
-</head>
-<body>
-  <h2>Skills</h2>
-
-  <ul>
-    <li class="category">Languages:</li>
-    <ul class="skill-list">
-      <li class="skill">HTML</li>
-      <li class="skill">CSS</li>
-      <li class="skill">JavaScript</li>
-    </ul>
-
-    <li class="category">Frameworks/Libraries:</li>
-    <ul class="skill-list">
-      <li class="skill">Angular</li>
-      <li class="skill">jQuery</li>
-      <li class="skill">Typescript</li>
-    </ul>
-
-    <li class="category">Design Tools:</li>
-    <ul class="skill-list">
-      <li class="skill">Figma</li>
-      <li class="skill">Sketch</li>
-    </ul>
-
-    <li class="category">Version Control:</li>
-    <ul class="skill-list">
-      <li class="skill">Git</li>
-      <li class="skill">GitHub</li>
-    </ul>
-
-    <li class="category">Build Tools:</li>
-    <ul class="skill-list">
-      <li class="skill">Webpack</li>
-    </ul>
-
-    <li class="category">CSS Preprocessors:</li>
-    <ul class="skill-list">
-      <li class="skill">Sass</li>
-      <li class="skill">Scss</li>
-    </ul>
-
-    <li class="category">Responsive Design:</li>
-    <ul class="skill-list">
-      <li class="skill">Flexbox</li>
-      <li class="skill">Grid</li>
-      <li class="skill">Bootstrap</li>
-    </ul>
-
-    <li class="category">Testing:</li>
-    <ul class="skill-list">
-      <li class="skill">Jasmine</li>
-      <li class="skill">Karma</li>
-    </ul>
-  </ul>
-</body>
-</html>
-```
-
-
+### Testing
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=flat)
+![Karma](https://img.shields.io/badge/Karma-0D0C0C?style=flat)
