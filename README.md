@@ -23,7 +23,7 @@ const introduction = generateIntroduction(name, experienceYears, expertise);
 
 // Log the introduction to the console (you can display this on your GitHub profile README)
 console.log(introduction);
-
+```
 
 ## Skills
 
