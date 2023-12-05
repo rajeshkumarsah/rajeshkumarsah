@@ -1,4 +1,4 @@
-# Hi there! 👋 Welcome to the profile of a JavaScript and CSS Master
+# Hi there! 👋 Welcome to the profile
 
 ## This piece of code will help you understand more about me.
 
